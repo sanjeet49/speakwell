@@ -1,0 +1,43 @@
+.about-us-container {
+    padding-bottom: 80px;
+}
+
+.about-us-container img {
+    max-width: 100%;
+    height: auto;
+}
+
+.about-us-container .lead {
+    font-size: 1.25rem;
+}
+
+.about-us-container h2, .about-us-container h3 {
+    font-weight: 700;
+}
+
+.about-us-container .carousel-item blockquote {
+    border-left: 5px solid #007bff;
+    padding-left: 20px;
+}
+
+.about-us-container .carousel-item blockquote p {
+    font-style: italic;
+}
+
+.about-us-container .carousel-item blockquote footer {
+    font-size: 0.875rem;
+    color: #6c757d;
+    margin: 20px;
+}
+
+.carousel-inner {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+    background-color: #007bff;
+    border-radius: 50%;
+    padding: 10px;
+}
